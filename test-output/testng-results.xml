@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26037" started-at="2020-01-07T09:44:48Z" finished-at="2020-01-07T09:45:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26037" started-at="2020-01-07T09:44:48Z" finished-at="2020-01-07T09:45:14Z">
+      <class name="scripts.PriceOfIphoneXR">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:scripts.PriceOfIphoneXR@4f7d0008]" name="precondition" is-config="true" duration-ms="5153" started-at="2020-01-07T09:44:48Z" finished-at="2020-01-07T09:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="getPriceOfIphoneXRYellowFromAmazon()[pri:0, instance:scripts.PriceOfIphoneXR@4f7d0008]" name="getPriceOfIphoneXRYellowFromAmazon" duration-ms="5630" started-at="2020-01-07T09:44:53Z" finished-at="2020-01-07T09:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPriceOfIphoneXRYellowFromAmazon -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:scripts.PriceOfIphoneXR@4f7d0008]" name="closeBrowser" is-config="true" duration-ms="2624" started-at="2020-01-07T09:44:59Z" finished-at="2020-01-07T09:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="precondition()[pri:0, instance:scripts.PriceOfIphoneXR@4f7d0008]" name="precondition" is-config="true" duration-ms="3976" started-at="2020-01-07T09:45:02Z" finished-at="2020-01-07T09:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="getPriceOfIphoneXRYellowFromFlipKart()[pri:0, instance:scripts.PriceOfIphoneXR@4f7d0008]" name="getPriceOfIphoneXRYellowFromFlipKart" duration-ms="6303" started-at="2020-01-07T09:45:06Z" finished-at="2020-01-07T09:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPriceOfIphoneXRYellowFromFlipKart -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:scripts.PriceOfIphoneXR@4f7d0008]" name="closeBrowser" is-config="true" duration-ms="2323" started-at="2020-01-07T09:45:12Z" finished-at="2020-01-07T09:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- scripts.PriceOfIphoneXR -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
